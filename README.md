@@ -36,8 +36,8 @@ In conclusion, this web application provides a simple registration and login sys
 <img src="/screenshot/mobile (2).png"><br>
 <img src="/screenshot/mobile (3).png"><br>
 <img src="/screenshot/mobile (4).png"><br>
-<img src="/screenshot/mobile (5).png"><br>
+<img src="/screenshot/mobile (5).png">
 <img src="/screenshot/mobile (6).png"><br>
-<img src="/screenshot/mobile (7).png"><br>
+<img src="/screenshot/mobile (7).png">
 <img src="/screenshot/mobile (8).png"><br>
 <img src="/screenshot/mobile (9).png"><br>
