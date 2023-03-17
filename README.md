@@ -30,5 +30,5 @@ This command starts the server and listens to incoming HTTP requests on port 300
 <br>
 
 In conclusion, this web application provides a simple registration and login system that allows users to access restricted content. The application also provides a contact us feature that allows users to send their queries and feedback to the developers. The application is built using Node.js and MongoDB and follows the Model-View-Controller (MVC) architecture.
-<br>
+<br><br>
 <img src="/screenshot/mobile.png"><br>
